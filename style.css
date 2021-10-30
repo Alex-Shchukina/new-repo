@@ -173,7 +173,7 @@
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    color: white;
+    color: rgb(129, 9, 9);
     text-transform: uppercase;
     font-size: 30px;
     text-align: center;
@@ -201,7 +201,7 @@
   }
   
   .footer__logo {
-    width: 145px;
+    width: 200px;
     height: 25px;
     background-image: url(https://code.s3.yandex.net/web-code/logo-black-eng.png);
     background-size: contain;
